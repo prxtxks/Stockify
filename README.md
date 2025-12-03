@@ -1,6 +1,6 @@
 # Stockify — Inventory Management Web App (Version 1)
 
-[View Stockify V1](https://github.com/prxtxks/stockify-v1)
+[View Stockify V2](https://github.com/prxtxks/stockify-v2)
 
 ![Stockify Mini UI Mocks](./Stockify/mocks.svg)
 
